@@ -1,12 +1,17 @@
-# React + Vite
+# Responsive React.js Website 🌐⚡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive website built using **React.js**.  
+This project follows modern frontend practices like component-based architecture, hooks, and responsive design on all screen sizes to ensure a seamless experience across devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📱 Fully responsive layout (Mobile, Tablet, Desktop)
+- ⚛️ Built with React.js (functional components + hooks)
+- 🎨 Styled with CSS3 / Tailwind / Styled-Components (choose based on your setup)
+- 🌍 SEO-friendly (semantic tags, meta support)
+- ⚡ Optimized build with `npm run build`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
