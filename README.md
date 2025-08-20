@@ -3,6 +3,8 @@
 A fully responsive website built using **React.js**.  
 This project follows modern frontend practices like component-based architecture, hooks, and responsive design on all screen sizes to ensure a seamless experience across devices.
 
+Live : https://ochii-site.netlify.app/
+
 ---
 
 ## 🚀 Features
