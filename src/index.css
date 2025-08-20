@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+  overflow-x:hidden;
+}
+@font-face{
+  font-family:'nemufont';
+  src:url('./fonts/NeueMontreal-Regular.ttf') format('truetype');
+}
